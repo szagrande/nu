@@ -22,8 +22,8 @@ body {
   border-radius: 10px;
   position: absolute;
   top: 359px;
-  left: 57%;
-  margin-left: -57.4px;
+  left: 47%;
+  margin-left: -47.4px;
   margin-top: -74.33333333px;
   width: 11px;
   height: 105px;
@@ -134,5 +134,5 @@ body {
   text-align: center;
 }
 .text h1 {
-  font-size: 33.4em;
+  font-size: 3.4em;
 }
