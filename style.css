@@ -24,14 +24,14 @@ body {
   top: 359px;
   left: 50%;
   margin-left: -2.4px;
-  margin-top: -8.33333333px;
+  margin-top: -11.33333333px;
   width: 5px;
   height: 45px;
-  transform: translateY(-300px);
+  transform: translateY(-700px);
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
-  -webkit-animation: in 500ms 6s ease-out forwards;
-          animation: in 500ms 6s ease-out forwards;
+  -webkit-animation: in 900ms 6s ease-out forwards;
+          animation: in 900ms 6s ease-out forwards;
 }
 
 .velas:after,
