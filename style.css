@@ -21,12 +21,12 @@ body {
   background: #ffffff;
   border-radius: 10px;
   position: absolute;
-  top: 228px;
+  top: 359px;
   left: 50%;
   margin-left: -2.4px;
   margin-top: -8.33333333px;
   width: 5px;
-  height: 35px;
+  height: 45px;
   transform: translateY(-300px);
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
